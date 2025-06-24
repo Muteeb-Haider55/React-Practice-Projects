@@ -81,7 +81,7 @@ This repository contains multiple mini React projects that helped me revise and 
 ## 🚀 **How to Run**
 
 ```bash
-git clone https://github.com/yourusername/react-mini-projects.git
+git clone https://github.com/Muteeb-Haider55/React-Practice-Projects.git
 cd react-mini-projects
 npm install
 npm run dev
